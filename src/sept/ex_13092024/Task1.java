@@ -9,7 +9,7 @@ public class Task1 {
                 10 × 3 = 30….
         10 × 10 = 100.*/
     int num = 10;
-        System.out.printf("%d X %d = %d " ,num,1,num*1 );
+        System.out.printf("%d X %d = %d " ,num,1, num);
         System.out.println();
         System.out.printf("%d X %d = %d" ,num,2,num*2);
         System.out.println();
