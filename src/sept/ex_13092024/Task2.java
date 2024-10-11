@@ -23,6 +23,19 @@ public class Task2 {
         System.out.println("Devision of a / b = " +devision);
         System.out.println("Modulus of a % b = " +modulus);
 
+        // Modulus operator
+        System.out.printf("Addition of two numbers (a+b) %f + %f = %f" ,a,b,a+b);
+        System.out.println();
+        System.out.printf("Substraction of two numbers (a-b) %f - %f = %f" ,a,b,a-b);
+        System.out.println();
+        System.out.printf("Multiplication of two numbers (axb) %f x %f = %f" ,a,b,a*b);
+        System.out.println();
+        System.out.printf("Devision of two numbers (a/b) %f / %f = %f" ,a,b,a/b);
+        System.out.println();
+        System.out.print("Modulus of two numbers a and b = ");
+        System.out.print(a%b);
+
+
 
     }
 }
