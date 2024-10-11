@@ -15,6 +15,7 @@ public class Task1 {
         System.out.println();
         System.out.printf("%d X %d = %d" ,num,3,num*3);
         System.out.println();
+
         System.out.printf("%d X %d = %d" ,num,4,num*4);
         System.out.println();
         System.out.printf("%d X %d = %d" ,num,5,num*5);
